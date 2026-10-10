@@ -1,0 +1,9 @@
+# Ignore compiled Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore cryptographic keys and SSL certificate files anywhere in the project
+*.key
+*.crt
+*.csr
+*.srl
